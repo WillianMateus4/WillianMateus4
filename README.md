@@ -1,6 +1,6 @@
 # Willian Mateus
 
-<img align="right" width="30%" src="img/pbi.svg">
+<img align="right" width="15%" src="img/pbi.svg">
 
 ![](https://img.shields.io/badge/Analista_de_Dados_&_BI-2196f3?style=falt&logoColor=white)
 
@@ -46,7 +46,7 @@ Atuação em análise de dados com foco na estruturação de dashboards, KPIs e 
 | :--- | :--- | :--- |
 | 2025 - 2027 | **Universidade Federal de Mato Grosso do Sul** | Tecnologia de Ciência dos Dados |
 | 2022 - 2023 | **Universidade Norte do Paraná** | Tecnologia em Design Gráfico |
-| 2015 - 2018 | **Instituto Federal de Educação, Ciência e Tecnologia de MS** | Técnico em Informática - Integrado |
+| 2015 - 2018 | **Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso do Sul** | Técnico em Informática - Integrado |
 
 ---
 
