@@ -6,7 +6,7 @@
 
 ### 🚀 Resumo Profissional
 
-Atuação em análise de dados com foco na estruturação de dashboards, KPIs e acompanhamento de performance comercial. Na franquia do Grupo Boticário, desenvolvi a integração de múltiplas fontes em um dashboard centralizado, eliminando 1 a 2 horas de trabalho manual diário e ampliando a visibilidade dos resultados para a liderança, tornando a tomada de decisão mais ágil e padronizada.
+Sou Analista de Dados e Business Intelligence com perfil analítico e orientado a resultados, que enxerga a informação como insumo estratégico. Tenho facilidade em entender processos de negócio, identificar gargalos e traduzir dados brutos em visualizações que de fato apoiam decisões. Na experiência no Grupo PV (Franquia O Boticário), centralizei dados de 5 lojas e 2 canais comerciais, monitorei mais de 40 KPIs em 5 pilares estratégicos. Automatizei rotinas que eliminaram até 2h de trabalho manual diário e apoiei o crescimento de 18% da franquia em dois anos consecutivos. Minha formação em Design Gráfico e em Ciência de Dados (em curso) reflete como enxergo a área: dados só geram valor quando são compreendidos. Por isso, uno modelagem consistente, visualização clara e foco nas perguntas de negócio.
 
 ---
 
