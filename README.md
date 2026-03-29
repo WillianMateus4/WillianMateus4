@@ -2,7 +2,7 @@
 
 <img align="right" width="15%" src="img/pbi.svg">
 
-![](https://img.shields.io/badge/Analista_de_Dados_&_BI-2196f3?style=falt&logoColor=white)
+![](https://img.shields.io/badge/Analista_de_Dados_&_Business_Intelligence-2196f3?style=falt&logoColor=white)
 
 ### 🚀 Resumo Profissional
 
